@@ -211,7 +211,7 @@ StScrollBar {
   color: #D3D3D3;
   border: 1px solid #202020;
   border-radius: 3px;
-  background-color: rgba(0, 0, 0, 0.50); }
+  background-color: rgba(0, 0, 0, 0.78); }
   .menu.top {
     border-radius: 0 0 3px 3px; }
   .menu.bottom {
@@ -425,7 +425,7 @@ StScrollBar {
 .panel-top, .panel-bottom, .panel-left, .panel-right {
   color: #D3D3D3;
   border: none;
-  background-color: rgba(0, 0, 0, 0.30);
+  background-color: rgba(0, 0, 0, 0.55);
   font-size: 1em;
   padding: 0px; }
 .panel-top {
